@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Dangrek } from "next/font/google";
+
 
 export default function Home() {
   return (
